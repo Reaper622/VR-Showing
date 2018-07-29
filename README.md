@@ -13,3 +13,8 @@
 - 进场动画
 - 特定场地讲解
 - 小地图
+
+
+
+### priview page： 
+[MIS VR](https://reaper622.github.io/VR-Showing/tour.html)
