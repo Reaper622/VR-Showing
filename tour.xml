@@ -12,7 +12,7 @@
 	               webvr="true"
 	               webvr_gyro_keeplookingdirection="false"
 	               webvr_prev_next_hotspots="true"
-	               littleplanetintro="false"
+	               littleplanetintro="true"
 	               title="true"
 	               thumbs="true"
 	               thumbs_width="120" thumbs_height="80" thumbs_padding="10" thumbs_crop="0|40|240|160"
